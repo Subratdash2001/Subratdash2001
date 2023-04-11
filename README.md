@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subratdash2001
 - 👀 I’m interested in Artificial intelligence and machine learining
-- 🌱 I’m currently learning c, java and python language 
+- 🌱 I’m currently learning c and python language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- subratdash2001@gmail.com
 
